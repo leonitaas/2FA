@@ -25,8 +25,8 @@ public class OTPActivity extends AppCompatActivity {
     private Button sendOtpButton, verifyOtpButton;
     private String generatedOtp;
     private String userEmail;
-    private final String senderEmail = "leonita.sinanni@gmail.com";
-    private final String senderPassword = "rjov okac hlvq cjbz";
+    private final String senderEmail = "";
+    private final String senderPassword = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

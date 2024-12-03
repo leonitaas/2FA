@@ -27,11 +27,11 @@ public class LoginActivity extends AppCompatActivity {
 
     private String generatedOtp;
 
-    private final String senderEmail = "leonita.sinanni@gmail.com";
-    private final String senderPassword = "leonita123";
+    private final String senderEmail = "";
+    private final String senderPassword = "";
 
-    private final String validEmail = "elvirmisini@gmail.com";
-    private final String validPassword = "elvir123";
+    private final String validEmail = "";
+    private final String validPassword = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
